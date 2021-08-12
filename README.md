@@ -1,6 +1,6 @@
 # notifications_template
 
-A new Flutter project.
+A Template to use Firebase Notifications
 
 ## Getting Started
 
